@@ -1,2 +1,2 @@
 # KAN-ViT
-Analysis of Vision Transformer with MLP layer replaced by Kolmogorov-Arnold Network, for better accuracy.
+Exploration of KAN based Vision-Transformer (ViT) for improved accuracy over improvised computational efficiency.
